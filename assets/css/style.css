@@ -136,7 +136,6 @@ nav .nav-ul a:hover::before{
 .hero-section{
   width: 100%;
   background-color: var(--light-gray);
-  height: auto;
 }
 .hero{
   display: flex;
@@ -163,7 +162,7 @@ nav .nav-ul a:hover::before{
   height: 38rem;
 }
 .hero-img img{
-  height: 40rem;
+  height: 30rem;
   transform: translateY(-10rem);
 }
 
