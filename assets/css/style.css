@@ -151,7 +151,6 @@ nav .nav-ul a:hover::before{
   line-height: 4rem;
 }
 .hero-text p{
-  width:60%;
   margin: 0 auto;
   line-height: 2rem;
   margin-bottom: 1rem;
@@ -159,7 +158,7 @@ nav .nav-ul a:hover::before{
 .hero-img{
   display: inline-block;
   text-align: center;
-  height: 38rem;
+  height: 25rem;
 }
 .hero-img img{
   height: 30rem;
